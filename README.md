@@ -31,3 +31,16 @@ API Endpoints
 [data.js] -> Data that has to be connnected to a database.
 
 [src/index.html] -> The home page for the application.
+
+#Deployment
+
+Web Deployment : https://getyoutubesubscriber.vercel.app/
+
+#Dependencies
+Following dependencie are needed to run this application:
+
+express
+
+mongoose
+
+nodemon
